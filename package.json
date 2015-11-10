@@ -34,7 +34,7 @@
     "main-loop": "^3.2.0"
   },
   "dependencies": {
-    "vdom-file-upload": "0.0.0",
+    "vdom-file-upload": "0.0.2",
     "virtual-dom": "^2.1.1"
   }
 }

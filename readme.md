@@ -1,6 +1,6 @@
 # vdom components
 
-Collection of generic UI components bound to `virtual-dom` as a rendering engine.
+Collection of UI components bound to `virtual-dom` as a rendering engine.
 
 
 ## install
@@ -13,11 +13,8 @@ Collection of generic UI components bound to `virtual-dom` as a rendering engine
 ```js
 var vdom = require('virtual-dom');
 
-// require everything
-var ui = require('vdom-components');
-
-// require one thing
-var FileUpload = require('vdom-components/FileUpload');
+// require something
+var FileUpload = require('vdom-components/Form/FileUpload');
 
 var state = FileUpload({});
 

@@ -1,11 +1,8 @@
 var vdom = require('virtual-dom');
 var h = vdom.h;
 
-// require everything
-var ui = require('../');
-
-// require one thing
-var FileUpload = require('../FileUpload');
+// require something
+var FileUpload = require('../Form/FileUpload');
 
 var state = FileUpload({});
 

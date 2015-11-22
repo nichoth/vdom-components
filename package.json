@@ -34,7 +34,7 @@
     "main-loop": "^3.2.0"
   },
   "dependencies": {
-    "vdom-form": "0.0.8",
+    "vdom-form": "0.0.9",
     "virtual-dom": "^2.1.1"
   }
 }

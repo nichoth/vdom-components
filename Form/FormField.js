@@ -1,3 +1,3 @@
-module.exports = require('../lib/curryComponent')(
+module.exports = require('../lib/bind-to-h')(
   require('vdom-form/lib/FormField')
 );

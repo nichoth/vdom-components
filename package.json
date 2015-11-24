@@ -2,7 +2,7 @@
   "name": "vdom-components",
   "description": "UI component library for virtual doms",
   "main": "index.js",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "keywords": [
     "virtual-dom",
     "mercury",
